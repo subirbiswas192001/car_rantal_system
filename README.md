@@ -28,7 +28,7 @@ This project was developed as an academic mini-project to demonstrate:
 
 ---
 <p align="center">
-  <img src="coding.gif" width="50">
+  <img src="coding.gif" width="200">
 </p>
 
 
