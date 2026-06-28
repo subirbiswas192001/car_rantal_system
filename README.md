@@ -1,7 +1,7 @@
 # 🚗 Car Rental System in Java
 
 <p align="center">
-  <img src="Car-rental-systam" width="700">
+  <img src="Car-rental-systam.png" width="700">
 </p>
 
 <p align="center">
@@ -27,6 +27,10 @@ This project was developed as an academic mini-project to demonstrate:
 * 🔄 Java class interactions
 
 ---
+<p align="center">
+  <img src="coding.gif" width="50">
+</p>
+
 
 # ✨ Features
 
